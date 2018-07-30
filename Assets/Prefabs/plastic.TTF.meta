@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e24626b4a430c6948aaa90d655bb3448
+timeCreated: 1519859992
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plastic Explosive
+  fontNames:
+  - Plastic Explosive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
